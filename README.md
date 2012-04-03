@@ -5,3 +5,7 @@ Information
 About
 =====
 - Pong Java applet. YAY!
+
+License
+=======
+- This code runs under the standard BSD license as of 4/2/2012. I'll get around to adding to the repo eventually.
